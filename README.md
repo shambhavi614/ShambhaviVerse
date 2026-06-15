@@ -30,14 +30,6 @@ AI-powered crop disease detection system
 ### 📂 GitHub Repository Explorer
 Search and explore GitHub profiles and repositories
 
-### 📊 TaskVanta
-Collaborative task management platform with Kanban boards
-
-### 📈 Admin Dashboard
-Interactive analytics dashboard with charts
-
-### 🎙️ SAPI 5 Voice Assistant
-Python-based voice-controlled assistant
 
 ---
 
@@ -49,6 +41,4 @@ Python-based voice-controlled assistant
 
 ## 📸 Preview
 
-> Add screenshot here later:
-```md
-![Portfolio Preview](./public/preview.png)
+<img width="1355" height="920" alt="image" src="https://github.com/user-attachments/assets/461f4a7e-037c-496e-893d-54dc151fa597" />
