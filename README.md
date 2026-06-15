@@ -35,7 +35,7 @@ Search and explore GitHub profiles and repositories
 
 ## 🌐 Live Demo
 
-👉 https://your-live-portfolio-link.com
+👉[ https://my-live-portfolio-link.com](https://shambhavi-verse.vercel.app/)
 
 ---
 
